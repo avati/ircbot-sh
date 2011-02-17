@@ -1,0 +1,3 @@
+An IRC bot in pure Bash
+
+Uses /dev/tcp/* interface of bash for networking
